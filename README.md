@@ -1,14 +1,81 @@
-<h3 align="center">Full Stack Developer focused on building secure and modern software.</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Nathan
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Full Stack Developer
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=underthesamename&show_icons=true&locale=en&layout=compact" alt="underthesamename" /></p>
+Building secure, scalable and modern software.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=underthesamename&show_icons=true&locale=en" alt="underthesamename" /></p>
+Currently focused on **Rust**, **TypeScript**, **System Design**, **Security** and **Linux**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=underthesamename&" alt="underthesamename" /></p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,express,postgres,redis,docker,linux,tailwind,figma,git&perline=7" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=underthesamename&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underthesamename&layout=compact&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# About
+
+I'm a full stack developer passionate about building software that solves real-world problems.
+
+I enjoy designing authentication systems, developer tools, scalable backends and modern user experiences with a strong focus on performance, security and clean architecture.
+
+---
+
+# Current Focus
+
+- 🛡 Building **Sentinel**
+- 🦀 Learning **Rust**
+- 🔐 Authentication & Security
+- 🏗 Software Architecture
+- 🐧 Linux
+
+---
+
+# Featured Projects
+
+## 🛡 Sentinel
+
+Modern authentication platform focused on security, scalability and developer experience.
+
+---
+
+## 🏢 CondBuscas
+
+Multi-tenant SaaS for condominium lost & found management.
+
+---
+
+## 🌑 Dusky
+
+Minimal Arch Linux / Hyprland environment focused on productivity.
+
+---
+
+# Tech Stack
+
+| Frontend | Backend | Database | DevOps |
+|----------|----------|----------|---------|
+| React · Next.js · Tailwind | Node.js · Express · Rust | PostgreSQL · Redis | Docker · Linux · NGINX |
+
+---
+
+<div align="center">
+
+### Philosophy
+
+> *Simple. Secure. Reliable.*
+
+</div>
