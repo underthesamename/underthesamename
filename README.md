@@ -1,18 +1,19 @@
 <div align="center">
 
-**Full Stack Developer**
+# Nathan
 
-Building secure, scalable and thoughtfully designed software.
+### Full Stack Developer
 
-Focused on **Rust**, **TypeScript**, **System Design**, **Authentication** and **Linux**.
+Building secure, reliable software and developer-focused tools.
 
-<br>
+**Rust · TypeScript · System Design · Security · Linux**
 
-<img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,express,postgres,redis,docker,linux,tailwind,figma,git&perline=7" />
+<br />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true" />
+<img
+  src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,express,postgres,docker,linux,git,react,nextjs,tailwind&perline=6"
+  alt="Nathan's technology stack"
+/>
 
 </div>
 
@@ -20,79 +21,43 @@ Focused on **Rust**, **TypeScript**, **System Design**, **Authentication** and *
 
 ## About
 
-I'm a full stack developer interested in building software that is secure, maintainable and built for long-term reliability.
+I build full-stack applications with an emphasis on backend engineering, authentication, maintainability and performance.
 
-My work is centered around authentication, backend engineering, developer tools, distributed systems and modern web technologies. I enjoy understanding how systems work under the hood and turning that knowledge into practical software.
+I prefer simple systems, explicit architecture and software that solves real problems.
 
----
+## Projects
+
+### [Sentinel](https://github.com/underthesamename/sentinel)
+
+Authentication platform focused on secure defaults, scalability and developer experience.
+
+`Rust` `TypeScript` `PostgreSQL` `Docker`
+
+### [Nadocs](https://github.com/underthesamename/nadocs)
+
+A documented Arch Linux and Hyprland environment focused on a minimal, reproducible workflow.
+
+`Linux` `Hyprland` `Shell` `Git`
 
 ## Current Focus
 
-- Building **Sentinel**, a modern authentication platform
+- Building and refining **Sentinel**
 - Deepening my knowledge of **Rust**
-- Authentication, Identity & Security
-- ystem Design & Backend Engineering
-- Linux & Open Source
-
----
-
-## Featured Projects
-
-### 🛡 Sentinel
-
-Modern authentication platform focused on security, scalability and developer experience.
-
-> *Currently in active development.*
-
----
-
-### 🌑 Nadocs
-
-Minimal Arch Linux / Hyprland environment designed for performance and productivity.
-
-> *Personal Linux configuration and documentation.*
-
----
-
-## Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Database | Infrastructure |
-|:---------|:---------|:---------|:---------------|
-| React · Next.js · Tailwind CSS | Node.js · Express · Rust | PostgreSQL · Redis | Docker · Linux · NGINX |
-
-</div>
-
----
+- Studying authentication, system design and network fundamentals
+- Improving Linux-based development workflows
 
 ## Engineering Principles
 
-I try to build software that is:
+- Security by default
+- Simple over clever
+- Maintainability over unnecessary abstraction
+- Measure before optimizing
+- Documentation is part of the product
 
-- Secure by default
-- Simple to understand
-- Easy to maintain
-- Performance-oriented
-- Scalable over time
-- Pleasant for developers to work with
-
----
-
-## Currently Learning
-
-- Rust ecosystem
-- Distributed systems
-- Authentication protocols
-- Software architecture
-- Network fundamentals
-
----
+<br />
 
 <div align="center">
 
-### Philosophy
-
-> **Simple. Secure. Reliable.**
+<sub>Simple. Secure. Reliable.</sub>
 
 </div>
