@@ -80,11 +80,6 @@ A documented Arch Linux and Hyprland environment focused on a minimal, reproduci
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
 <br /><br />
 
 <sub><strong>Simple. Secure. Reliable.</strong></sub>
