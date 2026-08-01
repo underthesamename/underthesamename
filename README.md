@@ -1,7 +1,5 @@
 <div align="center">
 
-# Nathan
-
 ### Full Stack Developer
 
 Building secure, reliable software and developer-focused tools.
