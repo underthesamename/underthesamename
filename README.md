@@ -11,8 +11,8 @@ Building secure, reliable software and developer-focused tools.
 <br />
 
 <img
-  src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,express,postgres,docker,linux,git,react,nextjs,tailwind&perline=6"
-  alt="Nathan's technology stack"
+  src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,express,postgres,redis,docker,linux,nginx,tailwind,git&perline=7"
+  alt="Technology stack"
 />
 
 </div>
@@ -21,30 +21,51 @@ Building secure, reliable software and developer-focused tools.
 
 ## About
 
-I build full-stack applications with an emphasis on backend engineering, authentication, maintainability and performance.
+I build full-stack software with an emphasis on backend engineering, authentication, maintainability and performance.
 
-I prefer simple systems, explicit architecture and software that solves real problems.
+I prefer simple systems, explicit architecture and software designed to solve real-world problems.
+
+## Current Focus
+
+- Building and refining **Sentinel**
+- Improving offer verification and price alerts in **SearchForPay**
+- Deepening my knowledge of **Rust**
+- Studying authentication, system design and network fundamentals
+- Improving Linux-based development workflows
 
 ## Projects
 
 ### [Sentinel](https://github.com/underthesamename/sentinel)
 
-Authentication platform focused on secure defaults, scalability and developer experience.
+An authentication platform focused on secure defaults, scalability and developer experience.
 
 `Rust` `TypeScript` `PostgreSQL` `Docker`
 
+---
+
+### [SearchForPay](https://github.com/underthesamename/SearchForPay)
+
+A web offer research and verification tool powered by OpenAI Web Search, built to surface real sources, clickable evidence and clearly identified uncertainties.
+
+`Node.js` `OpenAI Responses API` `Web Search` `Automation`
+
+---
+
 ### [Nadocs](https://github.com/underthesamename/nadocs)
 
-A documented Arch Linux and Hyprland environment focused on a minimal, reproducible workflow.
+A documented Arch Linux and Hyprland environment focused on a minimal, reproducible and productive workflow.
 
 `Linux` `Hyprland` `Shell` `Git`
 
-## Current Focus
+## Tech Stack
 
-- Building and refining **Sentinel**
-- Deepening my knowledge of **Rust**
-- Studying authentication, system design and network fundamentals
-- Improving Linux-based development workflows
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express · Rust |
+| **Database** | PostgreSQL · Redis |
+| **Infrastructure** | Docker · Linux · NGINX |
+| **Tools** | Git · GitHub · Figma |
 
 ## Engineering Principles
 
@@ -53,11 +74,19 @@ A documented Arch Linux and Hyprland environment focused on a minimal, reproduci
 - Maintainability over unnecessary abstraction
 - Measure before optimizing
 - Documentation is part of the product
+- Unknown information should never be presented as verified
 
 <br />
 
 <div align="center">
 
-<sub>Simple. Secure. Reliable.</sub>
+<img
+  src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true"
+  alt="GitHub contribution streak"
+/>
+
+<br /><br />
+
+<sub><strong>Simple. Secure. Reliable.</strong></sub>
 
 </div>
