@@ -2,11 +2,11 @@
 
 # Nathan
 
-### Full Stack Developer
+**Full Stack Developer**
 
-Building secure, scalable and modern software.
+Building secure, scalable and thoughtfully designed software.
 
-Currently focused on **Rust**, **TypeScript**, **System Design**, **Security** and **Linux**.
+Focused on **Rust**, **TypeScript**, **System Design**, **Authentication** and **Linux**.
 
 <br>
 
@@ -14,51 +14,80 @@ Currently focused on **Rust**, **TypeScript**, **System Design**, **Security** a
 
 <br><br>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-# About
+## About
 
-I'm a full stack developer passionate about building software that solves real-world problems.
+I'm a full stack developer interested in building software that is secure, maintainable and built for long-term reliability.
 
-I enjoy designing authentication systems, developer tools, scalable backends and modern user experiences with a strong focus on performance, security and clean architecture.
-
----
-
-# Current Focus
-
--  Building **Sentinel**
--  Learning **Rust**
--  Authentication & Security
--  Software Architecture
--  Linux
+My work is centered around authentication, backend engineering, developer tools, distributed systems and modern web technologies. I enjoy understanding how systems work under the hood and turning that knowledge into practical software.
 
 ---
 
-# Featured Projects
+## Current Focus
 
-## 🛡 Sentinel
+- 🛡 Building **Sentinel**, a modern authentication platform
+- 🦀 Deepening my knowledge of **Rust**
+- 🔐 Authentication, Identity & Security
+- 🏗 System Design & Backend Engineering
+- 🐧 Linux & Open Source
+
+---
+
+## Featured Projects
+
+### 🛡 Sentinel
 
 Modern authentication platform focused on security, scalability and developer experience.
 
----
-
-## 🌑 Nadocs
-
-Minimal Arch Linux / Hyprland environment focused on productivity.
+> *Currently in active development.*
 
 ---
 
-# Tech Stack
+### 🌑 Nadocs
 
-| Frontend | Backend | Database | DevOps |
-|----------|----------|----------|---------|
-| React · Next.js · Tailwind | Node.js · Express · Rust | PostgreSQL · Redis | Docker · Linux · NGINX |
+Minimal Arch Linux / Hyprland environment designed for performance and productivity.
+
+> *Personal Linux configuration and documentation.*
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Database | Infrastructure |
+|:---------|:---------|:---------|:---------------|
+| React · Next.js · Tailwind CSS | Node.js · Express · Rust | PostgreSQL · Redis | Docker · Linux · NGINX |
+
+</div>
+
+---
+
+## Engineering Principles
+
+I try to build software that is:
+
+- Secure by default
+- Simple to understand
+- Easy to maintain
+- Performance-oriented
+- Scalable over time
+- Pleasant for developers to work with
+
+---
+
+## Currently Learning
+
+- Rust ecosystem
+- Distributed systems
+- Authentication protocols
+- Software architecture
+- Network fundamentals
 
 ---
 
@@ -66,6 +95,6 @@ Minimal Arch Linux / Hyprland environment focused on productivity.
 
 ### Philosophy
 
-> *Simple. Secure. Reliable.*
+> **Simple. Secure. Reliable.**
 
 </div>
