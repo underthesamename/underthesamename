@@ -14,10 +14,6 @@ Currently focused on **Rust**, **TypeScript**, **System Design**, **Security** a
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=underthesamename&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=underthesamename&layout=compact&theme=transparent&hide_border=true"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=underthesamename&theme=transparent&hide_border=true"/>
@@ -36,11 +32,11 @@ I enjoy designing authentication systems, developer tools, scalable backends and
 
 # Current Focus
 
-- 🛡 Building **Sentinel**
-- 🦀 Learning **Rust**
-- 🔐 Authentication & Security
-- 🏗 Software Architecture
-- 🐧 Linux
+-  Building **Sentinel**
+-  Learning **Rust**
+-  Authentication & Security
+-  Software Architecture
+-  Linux
 
 ---
 
@@ -52,13 +48,7 @@ Modern authentication platform focused on security, scalability and developer ex
 
 ---
 
-## 🏢 CondBuscas
-
-Multi-tenant SaaS for condominium lost & found management.
-
----
-
-## 🌑 Dusky
+## 🌑 Nadocs
 
 Minimal Arch Linux / Hyprland environment focused on productivity.
 
