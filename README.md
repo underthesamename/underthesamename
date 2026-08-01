@@ -28,11 +28,11 @@ My work is centered around authentication, backend engineering, developer tools,
 
 ## Current Focus
 
-- 🛡 Building **Sentinel**, a modern authentication platform
-- 🦀 Deepening my knowledge of **Rust**
-- 🔐 Authentication, Identity & Security
-- 🏗 System Design & Backend Engineering
-- 🐧 Linux & Open Source
+- Building **Sentinel**, a modern authentication platform
+- Deepening my knowledge of **Rust**
+- Authentication, Identity & Security
+- ystem Design & Backend Engineering
+- Linux & Open Source
 
 ---
 
