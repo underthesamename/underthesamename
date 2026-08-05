@@ -26,7 +26,7 @@ I prefer simple systems, explicit architecture and software designed to solve re
 ## Current Focus
 
 - Building and refining **Sentinel**
-- Improving offer verification and price alerts in **SearchForPay**
+- Improving **Bycard**
 - Deepening my knowledge of **Rust**
 - Studying authentication, system design and network fundamentals
 - Improving Linux-based development workflows
